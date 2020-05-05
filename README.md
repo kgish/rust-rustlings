@@ -1,6 +1,6 @@
-# Rustlings
+# Rust Rustlings
 
-My attempt to tackle the rustlings exercises while learning the Rust programming language.
+My attempt to tackle the rustlings exercises in order to learn the Rust programming language better.
 
 ## Setup
 
